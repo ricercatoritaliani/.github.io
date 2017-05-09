@@ -18,7 +18,12 @@ nav.main-nav a {
     color:#ccece6;
     text-decoration:none;
 }
-nav.main-nav a:hover,
+/* nav.main-nav a:hover,
 nav.main-nav li.current a {
+    background:#086754;
+}
+ */
+nav.main-nav a:hover,
+nav.main-nav li.current a.active {
     background:#086754;
 }
