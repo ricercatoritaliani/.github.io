@@ -1,5 +1,6 @@
 ---
 title: ARI@CH - Associazione Ricercatrici e Ricercatori Italiani in Svizzera
+navigation_weight: 1
 author: Riccardo Maria Bianchi
 ---
 
