@@ -239,3 +239,8 @@ a {
 
 .site-footer-credits {
   color: #819198; }
+
+/* Ric */
+a.active {
+  color: #FFE000;
+}
