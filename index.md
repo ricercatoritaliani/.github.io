@@ -1,3 +1,6 @@
+---
+title: ARI@CH - Associazione Ricercatrici e Ricercatori Italiani in Svizzera
+---
 
 L'*Associazione Ricercatrici e Ricercatori Italiani in Svizzera* (ARI@CH) e' nata con lo scopo di promuovere, valorizzare e sostenere l'attivita' dei ricercatori italiani che lavorano nelle universita' e nelle istituzioni e centri di ricerca, pubblici e privati, sul solo svizzero.
 
