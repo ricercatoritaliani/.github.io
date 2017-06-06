@@ -4,13 +4,13 @@ navigation_weight: 1
 author: Riccardo Maria Bianchi
 ---
 
-L'*Associazione Ricercatrici e Ricercatori Italiani in Svizzera* (ARI@CH) e' nata con lo scopo di promuovere, valorizzare e sostenere l'attivita' dei ricercatori italiani che lavorano nelle universita' e nelle istituzioni e centri di ricerca, pubblici e privati, sul solo svizzero.
+L'*Associazione Ricercatrici e Ricercatori Italiani in Svizzera* (ARI@CH) è nata con lo scopo di promuovere, valorizzare e sostenere l'attività dei ricercatori italiani operanti nelle Università o negli Istituti e nei Centri di Ricerca, pubblici e privati, ubicati in Svizzera.
 
-L'Associazione e' nata nell'Aprile 2017 su iniziativa di Federica Rossi e di un gruppo di Soci Fondatori, e ha sede a Ginevra.
+L'Associazione è nata nell'Aprile 2017 su iniziativa di Federica Rossi e di un gruppo di Soci Fondatori, e ha sede a Ginevra.
 
-Possono chiedere di far parte dell'Associazione i ricercatori e gli accademici che lavorino in una Universita' o in un Istituto di Ricerca, sia pubblico che privato, su suolo svizzero, e che condividano gli interessi dell'Associazione.
+Possono chiedere di aderire all'Associazione i ricercatori e gli accademici che lavorano in una Università o in un Istituto di Ricerca (pubblico o privato) su suolo Svizzero, e che condividono gli interessi e gli scopi dell'Associazione.
 
-Il calendario delle attivita', promosse dai soci, e' pubblicato sul sito, nella sezione "Attivita'".
+Il calendario delle attività, promosse dai Soci, è pubblicato sul sito, nella sezione "Attività".
 
 ----
 
