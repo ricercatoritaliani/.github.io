@@ -10,16 +10,14 @@ Qui di seguito troverete le istruzioni per contribnuire allo sviluppo del sito d
 
 Il sito dell'Associazione e' ospitato sulla piattaforma [GitHub](www.github.com) GitHub non e' un sistema di web authoring come, per esempio, WordPress, ma un sito su cui ospitare codice sorgente. GitHub viene usato per ospitare il codice della maggior parte dei progetti software Open Source.
 
-Puoi accedere al "codice" del sito a questo indirizzo:
+Potete accedere al "codice" del sito a questo indirizzo:
 
 https://github.com/ricercatoritaliani/ricercatoritaliani.github.io
 
 
 [... work in progress...]
 
-Quindi quello che vedi non e' la struttura finale delle pagine del sito, ma quella dei file che compongono le pagine prima della generazione del codice HTML che comporra' poi le pagine che verrano visualizzate sul sito.
-
-Poi magari scrivero' due righe per spiegare la struttura e il funzionamento a tutti. Ora pero' purtroppo vado un pochino di fretta perche' oggi ho una serie di meeting, ma ti dico due cose al volo per partire.
+Quello che vedete sulla pagina appena aperta non è la struttura finale delle pagine del sito, ma quella dei file che compongono le pagine prima della generazione del codice HTML che comporrà poi le pagine che verrano visualizzate sul sito.
 
 Per iniziare a editare il sito devi andare sulla pagina iniziale del progetto:
 
