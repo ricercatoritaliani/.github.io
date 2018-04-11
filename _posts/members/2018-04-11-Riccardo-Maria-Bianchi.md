@@ -2,7 +2,6 @@
 layout: member
 categories: member
 title:  "Riccardo Maria Bianchi"
-date:   2018-04-11 14:00:00
 member-start: 2017
 member-end:
 founder: true
