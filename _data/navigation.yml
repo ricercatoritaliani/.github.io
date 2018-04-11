@@ -1,6 +1,10 @@
 - link: /
   name: Home
-- link: /about/
-  name: About
-- link: /contact/
-  name: Contact
+- link: /pages/about/
+  name: Chi siamo
+- link: /pages/contact/
+  name: Contatti
+- link: /pages/activities/
+  name: Attività
+- link: /pages/members/
+  name: Soci

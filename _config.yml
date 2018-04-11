@@ -1,8 +1,27 @@
-theme: jekyll-theme-cayman
-
 # Cayman theme settings
 # see: https://github.com/pages-themes/cayman
+#theme: jekyll-theme-cayman
+
+# Setup
 title: [ARI@CH]
 description: [Associazione Ricercatrici e Ricercatori Italiani in Svizzera]
+tagline: L'Associazione Ricercatrici e Ricercatori Italiani in Svizzera
+baseurl:      ""
+paginate:     1
+locale:       "en"
+future: true
 
+# About/contact
+author:
+  name:       ARI@CH
+  url:        web.ari.ch@gmail.com
+
+# Google analyitics
 google_analytics: [UA-97201233-1]
+
+# Plugins (was: Gems)
+plugins:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
