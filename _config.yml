@@ -19,6 +19,10 @@ author:
 # Google analyitics
 google_analytics: [UA-97201233-1]
 
+# MailChimp
+mailchimp: true
+mailchimp-popup: true
+
 # Plugins (was: Gems)
 plugins:
   - jekyll-paginate

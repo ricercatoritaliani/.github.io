@@ -3,7 +3,7 @@ title: ARI@CH - Contatti
 layout: page
 ---
 
-## Contatti
+# Contatti
 
 Per informazioni sull'Associazione, l'iscrizione e le attività:
 
@@ -12,3 +12,7 @@ Per informazioni sull'Associazione, l'iscrizione e le attività:
 Per informazioni riguardanti il sito web:
 
 - [web.ari.ch@gmail.com](mailto:web.ari.ch@gmail.com)
+
+# Newsletter
+
+{% include script-mailchimp-newsletter-form.html %}
