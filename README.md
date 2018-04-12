@@ -6,5 +6,7 @@ www.ricercatoritaliani.ch
 
 ## Contacts:
 
-ricercatori.ari.ch@gmail.com 
+- general questions: ricercatori.ari.ch@gmail.com 
+- website: web.ari.ch@gmail.com
+
 
