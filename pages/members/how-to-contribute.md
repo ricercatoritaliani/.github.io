@@ -12,6 +12,11 @@ Potrete creare pagine, news, il vostro profilo di soci, e qualsiasi altra parte 
 
 Il sito dell'Associazione e' ospitato sulla piattaforma GitHub. GitHub non e' un sistema di web authoring come, per esempio, WordPress, ma un sito su cui ospitare codice sorgente. GitHub viene usato per ospitare il codice della maggior parte dei progetti software Open Source.
 
+Potete trovare piu' informazioni al riguardo [nella pagina delle FAQ](/pages/faq/#sito-web)
+
+---
+
+
 ## Step 0 - Creazione account GitHub
 
 Potete creare un vostro account GitHub accedendo al sito: [GitHub](http://www.github.com)
@@ -100,7 +105,7 @@ A quel punto, le tue modifiche saranno visibili sul sito ufficiale nel giro di u
 
 Il sito e' costruito usando [Jekyll](https://jekyllrb.com/), usando una versione customizzata del theme [Cayman](https://github.com/pietromenna/jekyll-cayman-theme).
 
-I posts sono divisi in diverse categories: per adesso, "activity", "news" e "members". Le "news" vengono elencate nella home page (e forse in futuro in una sidebar), le "activity" sono elencate nella pagina "Attività" (pages/activities/index.md), i post "member" vengono usati per ospitare i profili personali dei soci e vengono elencati nella pagina "Soci" (pages/members/index.md).
+I posts sono divisi in diverse categories: per adesso, "activity", "news" e "members". Le "news" vengono elencate nella home page (e forse in futuro in una sidebar), le "activity" sono elencate nella pagina "Attività" ([/pages/activities/index.md](/pages/activities/)), i post "member" vengono usati per ospitare i profili personali dei soci e vengono elencati nella pagina "Soci" ([/pages/members/index.md](/pages/members/)).
 
 ## Se avete problemi
 

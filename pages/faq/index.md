@@ -8,4 +8,4 @@ layout: page
 
 {% include_relative faq-members.md %}
 
-<!-- {% include_relative faq-website.md %} -->
+{% include_relative faq-website.md %}
