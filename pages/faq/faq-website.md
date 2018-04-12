@@ -9,7 +9,7 @@ Il sito e' costruito utilizzando il framework [Jekyll](https://jekyllrb.com/) e 
 
 Puoi trovare le istruzioni [su questa pagina](/pages/members/how-to-contribute)
 
-### Perché non avete usato Wordpress o altri CMS per il sito?
+### Perché su GitHub? E perché non avete usato Wordpress o altri CMS per il sito?
 
 Piattaforme come GitHub sono usate per lo sviluppo di ogni genere di software, e sono alla base di ogni progetto collaborativo e "open source". Se state usando un browser Firefox o un cellulare Android, questi sono stati sviluppati usando una di queste piattaforme e gli stessi approcci che usiamo qui per il nostro sito.
 
@@ -35,3 +35,5 @@ L'uso di GitHub come piattaforma di "hosting" offre anche ulteriori vantaggi:
 - **non sono necessari backup del sito**, in caso qualcosa vada storto nel server: il sito e' gia' di fatto "salvato" a ogni modifica, in modo automatico, senza bisogno di strumenti di backup; inoltre, non c'e' un server privato che possa mal funzionare: il server che serve il sito e' lo stesso che serve la piattaforma GitHub stessa.
 
 - **l' "hosting" del sito e' GRATIS!** L'associazione paga solo il costo dei domini (gli indirizzi web: www.ricercatoritaliani.ch e www.ricercatoritaliani.org, che punta al primo), senza pagare per la piattaforma di hosting, di solito fatturata a parte
+
+- il sito, per funzionare, non ha bisogno di database, come invece accade con siti gestiti con Wordpress o altri CMS. Questo significa avere un sito **piu' veloce** e piu' facile da mantenere.
