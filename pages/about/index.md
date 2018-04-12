@@ -25,7 +25,7 @@ Il calendario delle attività, promosse dai Soci, è pubblicato sul sito, nella 
 
 Possono chiedere di aderire all’Associazione i ricercatori e gli accademici che lavorano in una Università o in un Istituto di Ricerca (pubblico o privato) su suolo Svizzero, e che condividono gli interessi e gli scopi dell’Associazione.  
 
-Ulteriori informazioni qui*
+Ulteriori informazioni [nelle FAQ](/pages/faq/#chi-puo-iscriversi-all-associazione)
 
 #### Quota d'Iscrizione
 
