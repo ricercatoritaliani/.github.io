@@ -57,7 +57,9 @@ Il calendario delle attività, promosse dai Soci, è pubblicato sul sito, [nella
 
 Possono chiedere di aderire all’Associazione i ricercatori e gli accademici che lavorano in una Università o in un Istituto di Ricerca (pubblico o privato) su suolo Svizzero, e che condividono gli interessi e gli scopi dell’Associazione.  
 
-Ulteriori informazioni [nella sezione "FAQ"](/pages/faq/#chi-puo-iscriversi-all-associazione)
+Ulteriori informazioni [nella sezione "FAQ"](/pages/faq/#chi-puo-iscriversi-all-associazione).
+
+Per diventare membro dell'*Associazione Ricercatrici e Ricercatori Italiani in Svizzera* (ARI@CH), e **prima di versare la quota associativa**, scrivi un messaggio all'email [ricercatori.ari.ch@gmail.com](mailto:ricercatori.ari.ch@gmail.com).
 
 #### Quota d'Iscrizione
 
