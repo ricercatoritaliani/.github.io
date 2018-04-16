@@ -1,8 +1,8 @@
 ---
 layout: activity
 categories: activity
-title:  "Giornata della Ricerca Italiana nel mondo - 24 Aprile 2018"
-date:   2017-04-11 14:00:01
+title:  "Prima Giornata della Ricerca Italiana nel Mondo - 24 Aprile 2018"
+date:   2018-04-24
 ---
 
 **_"La ricerca oggi: campi di applicazione dalla fisica alla storia delle religioni"_**
