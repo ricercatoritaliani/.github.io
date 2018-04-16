@@ -1,6 +1,10 @@
-# Cayman theme settings
+# Theme settings
+# --- Cayman ---
 # see: https://github.com/pages-themes/cayman
 #theme: jekyll-theme-cayman
+# --- Minimal Mistakes ---
+# see: https://github.com/mmistakes/minimal-mistakes
+# remote_theme: "mmistakes/minimal-mistakes"
 
 # Setup
 title: [ARI@CH]
