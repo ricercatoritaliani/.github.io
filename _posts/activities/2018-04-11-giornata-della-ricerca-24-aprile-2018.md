@@ -2,11 +2,7 @@
 layout: activity
 categories: activity
 title:  "Prima Giornata della Ricerca Italiana nel Mondo - 24 Aprile 2018"
-<<<<<<< HEAD
-date:   2018-04-24
-=======
-date:   2017-04-11 14:00:01
->>>>>>> 42eba3bfb581e5a2e0146106d7df9f9b38ca8759
+date:   2018-04-24 18:30:00
 ---
 
 In occasione della **Prima giornata della Ricerca italiana nel mondo**, l' **ARI@CH**, *Associazione Ricercatrici e Ricercatori Italiani in Svizzera*, con il sostegno del *Consolato Generale d'Italia a Ginevra* e della *Rappresentanza Permanente d'Italia presso le Organizzazioni Internazionali*, vi invita a un incontro sul tema:
