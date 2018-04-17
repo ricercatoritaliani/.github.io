@@ -13,12 +13,21 @@ Ulteriori informazioni sull'associazione possono essere trovate nella sezione [C
 
 Il calendario delle attività, promosse dai Soci, è pubblicato sul sito, nella sezione [Attività]({{ site.url }}/pages/activities).
 
+
 # News
 
+
 <div id="home">
-  <ul class="posts">
+  <!-- <ul class="posts">
     {% for post in site.categories.news %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
+  </ul> -->
+  <ul class="posts">
+    {% for post in site.categories.news %}
+      <li>{{ post.content }}</li>
+    {% endfor %}
   </ul>
 </div>
+
+{% include script-mailchimp-newsletter-form-slim.html %}

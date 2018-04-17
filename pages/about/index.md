@@ -5,6 +5,7 @@ layout: page
 
 - [Chi Siamo](#chi-siamo)
 - [Iscrizione](#iscrizione)
+- [Ringraziamenti](#ringraziamenti)
 
 ---
 
@@ -70,3 +71,7 @@ Per il **2018**:
 La quota d'iscrizione va versata sul **conto postale** dell'Associazione:
 
 - CH48 0900 0000 6923 3018 6: intestato a ARI@CH (Associazione Ricercatrici e Ricercatori italiani in Svizzera)
+
+# Ringraziamenti
+
+L'Associazione ringrazia [Nora Citti](mailto:nora.citti@gmail.com), designer e grafica, per il concept e la realizzazione del **logo** ufficiale.

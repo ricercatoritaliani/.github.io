@@ -1,7 +1,7 @@
 ---
 layout: activity
 categories: activity
-title:  "Prima Giornata della Ricerca Italiana nel Mondo - 24 Aprile 2018"
+title:  "Prima Giornata della Ricerca Italiana nel Mondo"
 date:   2018-04-24 18:30:00
 ---
 
