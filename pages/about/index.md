@@ -20,7 +20,7 @@ L’Associazione è nata nell’**Aprile 2017** su iniziativa di un gruppo di So
 Il comitato direttivo è composto dai seguenti membri :
 
 - Federica Rossi - _Presidente_
-- Toni Ricciard - _Vicepresidente_
+- Toni Ricciardi - _Vicepresidente_
 - Marzia Del Zotto - _Tesoriere_
 - Riccardo Maria Bianchi - _Segretario e responsabile sito web_
 
