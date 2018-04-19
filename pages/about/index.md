@@ -45,7 +45,7 @@ Di seguito, la lista dei **Soci Fondatori**, in ordine alfabetico:
 - Federica Rossi
 - Marco Sassòli
 
-La lista aggiornata degli attuali soci puo' essere consultata [alla pagina "Soci"]({{ site.url }}/pages/members/)
+La lista aggiornata degli attuali soci puo' essere consultata [alla pagina "Soci"]({{ site.url }}/pages/members/).
 
 #### Statuto
 
