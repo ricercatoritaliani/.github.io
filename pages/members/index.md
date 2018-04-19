@@ -3,9 +3,9 @@ title: ARI@CH - Soci
 layout: page
 ---
 
-# Soci
+# Soci di ARI@CH
 
-Di seguito, la lista dei soci dell'Associazione ARI@CH, in ordine alfabetico
+Di seguito, la lista aggiornata dei soci dell'Associazione ARI@CH, in ordine alfabetico.
 
 - Antonelli, Cecilia - [Université de Lausanne (UNIL)](http://www.unil.ch) - [Institut Romand de Sciences Bibliques (IRSB)](https://www.unil.ch/irsb/fr/home.html)
 - Ardissone, Silvia - [Université de Genève](https://www.unige.ch/) - [Faculté de Médecine](http://www.unige.ch/medecine/fr/)
