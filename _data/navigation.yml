@@ -6,7 +6,7 @@
   name: Contatti
 - link: /pages/activities/
   name: Attività
-# - link: /pages/members/
-#   name: Soci
+- link: /pages/members/
+  name: Soci
 - link: /pages/faq/
   name: FAQ
