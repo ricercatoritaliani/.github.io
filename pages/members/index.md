@@ -9,7 +9,7 @@ Di seguito, la lista aggiornata dei soci dell'Associazione ARI@CH, in ordine alf
 
 - Antonelli, Cecilia - [Université de Lausanne (UNIL)](http://www.unil.ch) - [Institut Romand de Sciences Bibliques (IRSB)](https://www.unil.ch/irsb/fr/home.html)
 - Ardissone, Silvia - [CHUV](http://www.chuv.ch/fr/chuv-home/) - [Institut de Microbiologie](http://www.chuv.ch/microbiologie)
-- Arese Visconti 	Francesco - [Webster University of Geneva](http://www.webster.ch/)
+- Arese Visconti, Francesco - [Webster University of Geneva](http://www.webster.ch/)
 - Bianchi, Riccardo Maria	- [CERN](https://home.cern/) & [University of Pittsburgh](https://www.physicsandastronomy.pitt.edu/) - [ATLAS Experiment](https://atlas.cern/)
 - Biava, Alessia - [Université de Genève](https://www.unige.ch/) - [Global Studies Institute](https://www.unige.ch/gsi/en/home/)
 - Cattacin, Sandro - [Université de Genève](https://www.unige.ch/) - [Département de Sociologie](https://www.unige.ch/sciences-societe/socio/fr/bienvenue/)
