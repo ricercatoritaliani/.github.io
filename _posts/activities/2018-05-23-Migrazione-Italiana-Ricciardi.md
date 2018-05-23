@@ -7,7 +7,7 @@ date:   2018-06-03 17:00:00
 
 All'interno del Festival International d'Italie, organizzato dal ComItEs, presentazione del libro di **Toni Ricciardi**, *"Breve storia dell'emigrazione italiana in Svizzera"*.
 
-<img alt="locandina incontro Toni Ricciardi" align="center" width="600" hspace="20" src="/assets/img/pages/activities/3-giugno-2018-Ricciardi-locandina_small.png">
+<img alt="locandina incontro Toni Ricciardi" align="center" width="600" hspace="20" src="/assets/img/pages/activities/3-giugno-2018-Ricciardi-locandina_smaller.png">
 
 ( Scarica [la locandina in formato PDF]({{ site.url }}/downloads/locandine/3-giugno-2018-Ricciardi-locandina.pdf) )
 
