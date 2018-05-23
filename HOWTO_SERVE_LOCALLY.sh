@@ -1,1 +1,1 @@
-jekyll serve --watch --port 4444
+bundle exec jekyll serve --watch --port 4444
