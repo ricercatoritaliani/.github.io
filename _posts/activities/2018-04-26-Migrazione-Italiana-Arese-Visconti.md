@@ -1,7 +1,7 @@
 ---
 layout: activity
 categories: activity
-title:  "Migrazione Italiana del Nuovo Millennio - Mostra fotografica"
+title:  "Migrazione Italiana del Nuovo Millennio - Mostra fotografica di Francesco Arese Visconti"
 date:   2018-06-12 14:30:00
 ---
 
