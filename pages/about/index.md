@@ -23,7 +23,7 @@ Il comitato direttivo è composto dai seguenti membri :
 - Toni Ricciardi - _Vicepresidente_
 - Silvia Ardissone - _Tesoriere_
 - Marzia Del Zotto - _Revisore dei conti_
-- Riccardo Maria Bianchi - _Segretario e responsabile sito web_
+- Riccardo Maria Bianchi - _Segretario e responsabile comunicazione_
 
 #### Soci Fondatori
 
