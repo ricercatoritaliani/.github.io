@@ -7,7 +7,7 @@ date:   2019-01-29
 
 Il 29 gennaio, presso l'Università di Basilea, verra' presentato per la prima volta in Svizzera l'[Istituto Italiano di Tecnologia](https://www.iit.it/).
 
-La presentazione avra' come tema centrale le nuove tecnologie in ambito **Life Sciences**.
+La presentazione avra' come tema centrale le nuove tecnologie in ambito *Life Sciences*.
 
 L'evento e' organizzato dalla **Camera di Commercio Italiana per la Svizzera**, in collaborazione con l'**Ambasciata Italiana a Berna**.
 
