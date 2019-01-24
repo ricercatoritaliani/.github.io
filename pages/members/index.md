@@ -13,7 +13,7 @@ Di seguito, la lista aggiornata dei soci dell'Associazione ARI@CH, in ordine alf
 - Bianchi, Riccardo Maria	- [CERN](https://home.cern/) & [University of Pittsburgh](https://www.physicsandastronomy.pitt.edu/) - [ATLAS Experiment](https://atlas.cern/)
 - Biava, Alessia - [Université de Genève](https://www.unige.ch/) - [Global Studies Institute](https://www.unige.ch/gsi/en/home/)
 - Cattacin, Sandro - [Université de Genève](https://www.unige.ch/) - [Département de Sociologie](https://www.unige.ch/sciences-societe/socio/fr/bienvenue/)
-- Cuccagna, Caterina
+- Cuccagna, Caterina - [Université de Genève](https://www.unige.ch/)
 - Del Zotto, Marzia - [Université de Genève](https://www.unige.ch/) - [HUG](https://www.hug-ge.ch)
 - Elia, Vincenzo - [Université de Genève](https://www.unige.ch/)
 - Esposito, Luigi Salvatore
