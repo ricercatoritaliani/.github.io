@@ -21,7 +21,7 @@ Di seguito, la lista aggiornata dei soci dell'Associazione ARI@CH, in ordine alf
 - Foppiani, Oreste - [Webster University of Geneva](http://www.webster.ch/) - [International Relations Department](http://www.webster.ch/academics/faculty/ir.html)
 - Gamba, Fiorenza - [Université de Genève](https://www.unige.ch/) - [Département de Sociologie](https://www.unige.ch/sciences-societe/socio/fr/bienvenue/)
 - Mazzocco, Mariel - [Université de Genève](https://www.unige.ch/)- [Faculté de Théologie](https://www.unige.ch/theologie/)
-- Mersi, Stefano
+- Mersi, Stefano - [CERN](https://home.cern/)
 - Monsutti, Alessandro
 - Montaruli, Teresa - [Université de Genève](https://www.unige.ch/) - [Département de Physique Nucléaire et Corpusculaire](https://www.unige.ch/dpnc/en/)
 - Ponzetto, Valentina - [Université de Lausanne (UNIL)](http://www.unil.ch) - [Faculté des Lettres](http://www.unil.ch/fra/home.html)
