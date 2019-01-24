@@ -15,6 +15,7 @@ Di seguito, la lista aggiornata dei soci dell'Associazione ARI@CH, in ordine alf
 - Cattacin, Sandro - [Université de Genève](https://www.unige.ch/) - [Département de Sociologie](https://www.unige.ch/sciences-societe/socio/fr/bienvenue/)
 - Cuccagna, Caterina
 - Del Zotto, Marzia - [Université de Genève](https://www.unige.ch/) - [HUG](https://www.hug-ge.ch)
+- Elia, Vincenzo - [Université de Genève](https://www.unige.ch/)
 - Esposito, Luigi Salvatore
 - Fois, Marisa - 	[Université de Genève](https://www.unige.ch/) - [SDS](https://www.unige.ch/sciences-societe/) - [Département de Sociologie](https://www.unige.ch/sciences-societe/socio/fr/bienvenue/)
 - Foppiani, Oreste - [Webster University of Geneva](http://www.webster.ch/) - [International Relations Department](http://www.webster.ch/academics/faculty/ir.html)
