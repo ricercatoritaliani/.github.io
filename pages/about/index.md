@@ -21,7 +21,8 @@ Il comitato direttivo è composto dai seguenti membri :
 
 - Federica Rossi - _Presidente_
 - Toni Ricciardi - _Vicepresidente_
-- Marzia Del Zotto - _Tesoriere_
+- Silvia Ardissone - _Tesoriere_
+- Marzia Del Zotto - _Revisore dei conti_
 - Riccardo Maria Bianchi - _Segretario e responsabile sito web_
 
 #### Soci Fondatori
