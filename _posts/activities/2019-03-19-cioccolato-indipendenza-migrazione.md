@@ -37,6 +37,5 @@ Con il patrocinio di:
 
 **Info**
 
-- Quando:
-  - 19 Marzo 2019, ore 18:15
-- Dove: **Ginevra**, Aula B302 (Uni Bastions)
+- *Quando*: 19 Marzo 2019, ore 18:15
+- *Dove*: **Ginevra**, Aula B302 (Uni Bastions)
