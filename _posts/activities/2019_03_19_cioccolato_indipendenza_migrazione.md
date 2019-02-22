@@ -29,6 +29,7 @@ E, ricorda... **Porta del cioccolato a tua scelta!**
 
 
 Con il patrocinio di:
+
 - COM.IT.ES Ginevra
 - Consolato Generale d'Italia a Ginevra
 - UNIGE - Université de Genève
